@@ -1,0 +1,4 @@
+streamlit
+sentence-transformers
+pdfminer.six
+scikit-learn
